@@ -9,7 +9,7 @@
         1000,
         50
       ],
-      "tensorPath": "https://raw.githubusercontent.com/krmonline/w2v/master//weights.tsv",
+      "tensorPath": "https://raw.githubusercontent.com/krmonline/w2v/master/weights.tsv",
       "metadataPath": "https://raw.githubusercontent.com/krmonline/w2v/master/metadata.tsv"
     }
   ]
