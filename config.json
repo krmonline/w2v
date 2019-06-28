@@ -1,7 +1,7 @@
 {
   "embeddings": [
     {
-      "tensorName": "My tensor",
+      "tensorName": "Softnix W2V",
       "tensorShape": [
         1000,
         50
